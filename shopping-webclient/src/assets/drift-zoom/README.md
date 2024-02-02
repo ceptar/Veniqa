@@ -16,7 +16,7 @@ Easily add "zoom on hover" functionality to your site's images. Lightweight, no-
 <a name="installation"></a>
 ## Installation
 
-* **NPM**: `npm install drift-zoom`
+* **NPM**: `npm install --legacy-peer-deps drift-zoom`
 * **Bower**: `bower install drift`
 * **Manual**: [Download](https://github.com/imgix/drift/archive/master.zip) and use `dist/Drift.min.js` or `dist/Drift.js`
 

@@ -155,7 +155,7 @@ license your work under the same license as that used by the project.
 To install all development dependencies, in the project's root directory, run
 
 ```
-npm install
+npm install --legacy-peer-deps
 ```
 
 Once you're configured, building the JavaScript from the command line is easy:
